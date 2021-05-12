@@ -1,0 +1,60 @@
+.header {
+    margin-left: 11px;
+    font-size: 42px;
+    margin-top: 5px;
+    
+}
+
+.icon-dog {
+    height: 22px;
+    
+}
+
+.happy-dog {
+    margin-left: 57px;
+    margin-top: 46px;
+    width: 415px;
+    height: 284px;
+    border-radius: 17px;
+    
+}
+
+.actions {
+    margin-left: 87px;
+     text-decoration: none;
+}
+
+.button-cad {
+    width: 235px;
+    height: 46px;
+    background-color: #5ca0ce;
+    border-radius: 7px;
+    color: white;
+    font-size: 19px;
+    margin-top: 48px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.button-cad:hover {
+   opacity: 0.9;
+}
+.button-arrow {
+    height: 10px;
+}
+
+
+.title {
+    font-size: 42px;
+    margin-left: 596px;
+    margin-top: -348px;
+}
+
+.footer {
+    flex-direction: row;
+    margin-top: 424px;
+    margin-left: 97%;
+    height: 33px;
+}
+
